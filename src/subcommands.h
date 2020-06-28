@@ -13,5 +13,6 @@ int set_main(int argc, char *argv[]);
 int setconf_main(int argc, char *argv[]);
 int genkey_main(int argc, char *argv[]);
 int pubkey_main(int argc, char *argv[]);
+int lla_main(int argc, char *argv[]);
 
 #endif
